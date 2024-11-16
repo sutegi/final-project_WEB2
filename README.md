@@ -50,7 +50,7 @@ This project is a dynamic web application that combines portfolio management, ne
    - Replace the placeholders for `News API` and `Ticketmaster API` in the JavaScript code.
 
 ### Usage
-1. Open the `index.html` file in your browser or serve it through a local server.
+1. Open the `signup.html` file in your browser or serve it through a local server and register a new account.
 2. Perform portfolio actions (admins only).
 3. Browse the latest news and cultural events fetched dynamically.
 
@@ -76,6 +76,3 @@ Feel free to fork this repository and make your own changes. Contributions are w
 
 ## AI Assistance
 This project was developed with the assistance of **OpenAI's ChatGPT** to improve code design, optimize logic, and generate documentation.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
