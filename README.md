@@ -43,7 +43,7 @@ This project is a dynamic web application that combines portfolio management, ne
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/portfolio-news-events.git
+   git clone https://github.com/sutegi/final-project_WEB2.git
    ```
 2. Set up the backend server and configure endpoints as needed.
 3. Add your API keys:
