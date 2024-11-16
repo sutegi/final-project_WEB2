@@ -73,6 +73,3 @@ This project is a dynamic web application that combines portfolio management, ne
 
 ## Contribution
 Feel free to fork this repository and make your own changes. Contributions are welcome!
-
-## AI Assistance
-This project was developed with the assistance of **OpenAI's ChatGPT** to improve code design, optimize logic, and generate documentation.
