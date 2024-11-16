@@ -1,0 +1,138 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+  }
+  
+  .navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  #portfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-body {
+    padding: 15px;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #777;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4cae4c;
+  }
+  
+  small {
+    display: block;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #777;
+  }
+
+  /* Ensure the images inside the carousel take up the full width */
+.carousel-item img {
+    max-height: 500px; /* Adjust this value depending on your design */
+    object-fit: cover;
+}
+
+/* Ensure all carousel images have the same size */
+.carousel-inner img {
+    width: 100%; /* Makes sure the image takes full width of the carousel */
+    height: 300px; /* Fixed height for all images */
+    object-fit: cover; /* Makes sure the image is properly scaled to fill the area */
+}
+
+/* Add this to your CSS file (styles.css or in the <style> tag) */
+#financial-news {
+  margin: 20px;
+}
+
+#news-container {
+  margin-top: 20px;
+}
+
+.news-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.news-item h4 {
+  font-size: 18px;
+}
+
+.news-item a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.news-item a:hover {
+  text-decoration: underline;
+}
+
+.event-item {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #f9f9f9;
+}
+
+.event-item h4 {
+  margin-bottom: 10px;
+}
+
+.event-item p {
+  margin: 5px 0;
+}
+
+
+  
